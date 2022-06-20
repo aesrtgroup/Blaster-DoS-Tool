@@ -75,7 +75,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Blaster DoS Tool
+	print (''' \033[92m	Blaster DoS Tool -----Made by A.E.S.R.T GROUP-----
 	It is the end user's responsibility to obey all applicable laws.
 	EDUCATIONAL PURPOSE ONLY!. Your IP is visible. \n
 	usage : python3 blaster-dos.py [-s] [-p] [-t]
