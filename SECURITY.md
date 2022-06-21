@@ -17,7 +17,7 @@ You Can hit a server with UDP and HTTP method!
 
 # Durability of Blaster
 
-Blaster cannot bypass High-Security FireWalls! It Can only bypass Low-Security FireWalls, Like websites with no Anti-DDoS!
+Blaster cannot bypass High-Security FireWalls! It Can only bypass Low-Security FireWalls!
 
 # Supported Versions
 
