@@ -31,3 +31,6 @@ python3 blaster-dos.py
 # How A DoS (Denial Of Service) Attack works?
 
 A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic, or sending it information that triggers a crash.
+
+![bandicam 2022-06-21 21-27-09-308](https://user-images.githubusercontent.com/104458632/174882460-4667879c-7c05-4eea-9150-918856957e4c.jpg)
+
