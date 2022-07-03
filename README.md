@@ -8,7 +8,7 @@ Blaster-DoS is a stress testing DoS (Denial Of Service Attack) Tool
 
 Warning! Use this tool at your own risk! EDUCATIONAL PURPOSE ONLY!
 
-Download:
+# Installation
 
 apt update && apt upgrade
 
